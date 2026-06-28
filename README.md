@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="dark-horizontal-logo.png" width="25%" alt="Loragica" />
+  <img src="dark-horizontal-logo.png" width="55%" alt="Loragica" />
 </div>
 
 <hr>
