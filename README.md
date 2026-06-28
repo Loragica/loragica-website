@@ -30,8 +30,7 @@
     src="https://img.shields.io/badge/Brand_Policy-Protected-1D9E75?&color=1D9E75"/></a>
 </div>
 
-# Loragica — Interactive Cognitive Simulations & STEM Curriculum
-
+##
 > **Visualize Science, Mathematics, and Computing with Absolute Precision.**
 > An open-access interactive laboratory designed to build core scientific intuition, simplify abstract models, and democratize high-fidelity STEM education.
 
